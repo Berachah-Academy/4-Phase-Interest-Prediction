@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": "S_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you hear about a new topic in class, what makes you curious?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Understanding how it works or why it happens", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Thinking about creative ways to present or express it", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Wondering how it affects people or society", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I usually don’t feel curious about new topics", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q2",
+    "interest_phase": "Curiosity Activation",
+    "question": "Which type of video or content grabs your attention the fastest?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Science, tech, or how-things-work videos", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Music, film, or art-related content", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Health, fitness, or human biology topics", "domains": { "Health, Medicine & Life Sciences": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t really watch educational content", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q3",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What kind of school work do you stay focused on the longest?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Problem-solving or logical tasks", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Writing, designing, or performing", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Organizing group work or leading activities", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Anything related to health or sports", "domains": { "Health, Medicine & Life Sciences": 3 } }
+    ]
+  },
+  {
+    "question_id": "S_Q4",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When working on a long project, what helps you stay motivated?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Figuring out complex ideas step by step", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Having creative freedom", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Seeing leadership or real-world impact", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I usually lose motivation", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q5",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which extracurricular activity would you stick with the longest?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Science or coding clubs", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Art, music, or drama clubs", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Student council or business clubs", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "None of these", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q6",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which subject feels most useful for your future?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Science, math, or technology", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative or expressive subjects", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Health, medicine, or biology", "domains": { "Health, Medicine & Life Sciences": 3 } },
+      { "option_code": "Opt_4", "text": "I’m not sure yet", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q7",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When thinking about careers, what attracts you most?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Solving technical or scientific problems", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creating or performing meaningful work", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Helping people stay healthy or recover", "domains": { "Health, Medicine & Life Sciences": 3 } },
+      { "option_code": "Opt_4", "text": "I don’t think about careers much", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q8",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which role do you often take in group projects?",
+    "options": [
+      { "option_code": "Opt_1", "text": "The problem-solver", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "The creative idea person", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "The planner or leader", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I prefer working alone", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q9",
+    "interest_phase": "Curiosity Activation",
+    "question": "What kind of problems do you enjoy thinking about?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Logical or numerical problems", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creative or design challenges", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Problems about money or management", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t enjoy problem-solving", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q10",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which task would you willingly practice to improve?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Maths, science, or coding skills", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Artistic or performance skills", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Communication or leadership skills", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I don’t like practicing", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q11",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of impact would you like your work to have?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Advancing knowledge or technology", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Inspiring or entertaining people", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Improving people’s health or lives", "domains": { "Health, Medicine & Life Sciences": 3 } },
+      { "option_code": "Opt_4", "text": "I haven’t thought about impact", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q12",
+    "interest_phase": "Curiosity Activation",
+    "question": "What type of news or updates do you follow more?",
+    "options": [
+      { "option_code": "Opt_1", "text": "New inventions or discoveries", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Trends in art, music, or media", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Business, startups, or economy", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t follow news much", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q13",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which type of assignment feels less tiring to you?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Analytical or technical assignments", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative writing or design work", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Case studies or planning tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "All assignments feel tiring", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q14",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which subject do you talk about outside school?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Science, tech, or facts", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Art, movies, or music", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Business ideas or leadership topics", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I rarely talk about school subjects", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q15",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When learning something difficult, what do you rely on?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Logic and practice", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creativity and imagination", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Teamwork and discussion", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I usually give up", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q16",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Is there something you voluntarily spend extra time learning?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Advanced science or technology topics", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Perfecting creative skills", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Learning about business or leadership", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Nothing consistently", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q17",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What would you keep improving even without grades?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technical or scientific skills", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Creative expression or performance", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Leadership or project skills", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "I need grades to stay motivated", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q18",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which area do you feel excited to go deeper into?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Science, engineering, or computing", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Arts, media, or design", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Health, biology, or medicine", "domains": { "Health, Medicine & Life Sciences": 4 } },
+      { "option_code": "Opt_4", "text": "I don’t feel excited yet", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q19",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which skill do you feel describes you best?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Analytical and logical thinking", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creative and expressive thinking", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Organizing and influencing others", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I’m still figuring it out", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "S_Q20",
+    "interest_phase": "Curiosity Activation",
+    "question": "What usually makes a subject boring for you?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Too little challenge or logic", "domains": { "STEM": 1 } },
+      { "option_code": "Opt_2", "text": "No room for creativity", "domains": { "Arts & Creative Expression": 1 } },
+      { "option_code": "Opt_3", "text": "No real-world connection", "domains": { "Business, Economics & Entrepreneurship": 1 } },
+      { "option_code": "Opt_4", "text": "Most subjects feel boring", "domains": { "Neutral": 0 } }
+    ]
+  }
+]

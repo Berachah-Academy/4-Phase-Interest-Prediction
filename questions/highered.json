@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": "H_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "What usually sparks your interest when you encounter a new academic topic?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Understanding the underlying theory or mechanism", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Exploring how it can be expressed or communicated creatively", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Thinking about its real-world or market relevance", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I rarely feel curious about new topics", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q2",
+    "interest_phase": "Curiosity Activation",
+    "question": "Which type of content do you explore on your own most often?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technical articles, research, or tutorials", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creative work, media, or design inspiration", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Health, psychology, or life-science topics", "domains": { "Health, Medicine & Life Sciences": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t explore much outside coursework", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q3",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which type of academic work keeps you engaged for long hours?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Solving complex or technical problems", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creating original content or designs", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Planning, coordinating, or leading projects", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Tasks that involve helping or supporting others", "domains": { "Health, Medicine & Life Sciences": 3 } }
+    ]
+  },
+  {
+    "question_id": "H_Q4",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What helps you stay consistent in a demanding course or project?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Intellectual challenge and problem depth", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Freedom to explore ideas creatively", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Clear outcomes like impact, leadership, or growth", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I struggle to stay consistent", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q5",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which extracurricular activity would you most likely commit to long-term?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Research groups, hackathons, or tech clubs", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Art collectives, media teams, or cultural clubs", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Entrepreneurship cells or management clubs", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "None consistently", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q6",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which area feels most aligned with your future goals?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technology, data, or scientific fields", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative industries or content-driven roles", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Healthcare, psychology, or life sciences", "domains": { "Health, Medicine & Life Sciences": 3 } },
+      { "option_code": "Opt_4", "text": "I’m still unsure", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q7",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you think about a fulfilling career, what matters most to you?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Solving meaningful technical or scientific problems", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Expressing ideas and influencing culture", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Building organizations or driving change", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I haven’t thought deeply about this yet", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q8",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which role do you naturally take in team-based work?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technical contributor or analyst", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Idea generator or creative lead", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Coordinator or decision-maker", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Supportive or assisting role", "domains": { "Health, Medicine & Life Sciences": 2 } }
+    ]
+  },
+  {
+    "question_id": "H_Q9",
+    "interest_phase": "Curiosity Activation",
+    "question": "What kind of problems do you voluntarily think about outside class?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Logical, mathematical, or technical problems", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Design, storytelling, or creative challenges", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Business models or strategy questions", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t think about such problems much", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q10",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which skill are you most willing to practice regularly?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technical, analytical, or coding skills", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative or expressive skills", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Leadership, communication, or strategy", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I don’t practice consistently", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q11",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of impact do you want your work to have?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Advancing knowledge or technology", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Shaping culture or public expression", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Improving human health or well-being", "domains": { "Health, Medicine & Life Sciences": 3 } },
+      { "option_code": "Opt_4", "text": "I’m unsure about impact", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q12",
+    "interest_phase": "Curiosity Activation",
+    "question": "Which type of news or updates do you follow most closely?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Scientific discoveries or tech innovations", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Art, media, or cultural trends", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Startups, economy, or policy", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I don’t follow updates much", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q13",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which type of assignment feels most rewarding after completion?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Analytical or research-heavy work", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative or expressive projects", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Strategic or organizational tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Most assignments feel the same", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q14",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which subject do you discuss most outside academic settings?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Technology, science, or data", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Films, art, or creative ideas", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Business ideas or leadership topics", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "I rarely discuss academic topics", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q15",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When learning something difficult, what keeps you going?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Logical structure and persistence", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative exploration", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Clear goals and collaboration", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "I tend to disengage", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q16",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Is there an area you invest time in beyond formal requirements?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Advanced technical or research topics", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Refining creative or artistic skills", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Developing leadership or venture ideas", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Not consistently", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q17",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What would you continue improving even without external pressure?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Scientific or technical expertise", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Creative or expressive mastery", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Strategic thinking or leadership ability", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "I rely on external motivation", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q18",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which area excites you enough to specialize deeply?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Engineering, science, or computing", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Arts, design, or media", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Health, medicine, or life sciences", "domains": { "Health, Medicine & Life Sciences": 4 } },
+      { "option_code": "Opt_4", "text": "I’m not ready to specialize", "domains": { "Neutral": 0 } }
+    ]
+  },
+  {
+    "question_id": "H_Q19",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which strength do you most identify with?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Analytical and logical thinking", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creative and expressive thinking", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Organizing, influencing, or leading", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Empathy and care for others", "domains": { "Health, Medicine & Life Sciences": 2 } }
+    ]
+  },
+  {
+    "question_id": "H_Q20",
+    "interest_phase": "Curiosity Activation",
+    "question": "What usually causes you to disengage from a subject?",
+    "options": [
+      { "option_code": "Opt_1", "text": "Lack of depth or rigor", "domains": { "STEM": 1 } },
+      { "option_code": "Opt_2", "text": "No room for creativity", "domains": { "Arts & Creative Expression": 1 } },
+      { "option_code": "Opt_3", "text": "No practical or real-world relevance", "domains": { "Business, Economics & Entrepreneurship": 1 } },
+      { "option_code": "Opt_4", "text": "I disengage from most subjects", "domains": { "Neutral": 0 } }
+    ]
+  }
+]
