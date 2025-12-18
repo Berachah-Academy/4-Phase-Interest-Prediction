@@ -1,0 +1,209 @@
+1. When you see a new toy you have never used, what do you do first?
+   Phase: Curiosity Activation
+   A. Open it to see how it works (STEM)
+   B. Use it to make up a story or game (Arts & Creative Expression)
+   C. Think about how people might buy or trade it (Business, Economics & Entrepreneurship)
+   D. Check if it is safe to play with (Health, Medicine & Life Sciences)
+
+2. If you find an insect outside, what do you want to do?
+   Phase: Curiosity Activation
+   A. Watch how it moves and lives (STEM)
+   B. Draw or color it (Arts & Creative Expression)
+   C. Think if it is useful for farming or work (Business, Economics & Entrepreneurship)
+   D. Check if it can hurt people (Health, Medicine & Life Sciences)
+
+3. When something breaks at home, what interests you most?
+   Phase: Curiosity Activation
+   A. Finding out why it stopped working (STEM)
+   B. Turning it into something creative (Arts & Creative Expression)
+   C. Thinking if it can be reused or sold (Business, Economics & Entrepreneurship)
+   D. Making sure no one gets hurt (Health, Medicine & Life Sciences)
+
+4. When you see people building something, what do you watch closely?
+   Phase: Curiosity Activation
+   A. How the parts fit together (STEM)
+   B. How it looks and its design (Arts & Creative Expression)
+   C. How the work is planned and managed (Business, Economics & Entrepreneurship)
+   D. How safety is handled (Health, Medicine & Life Sciences)
+
+5. When you start a new game, what makes you excited?
+   Phase: Curiosity Activation
+   A. Learning the rules and patterns (STEM)
+   B. Exploring the characters or world (Arts & Creative Expression)
+   C. Earning points or rewards (Business, Economics & Entrepreneurship)
+   D. Playing in a fair and safe way (Health, Medicine & Life Sciences)
+
+6. When you play pretend, who are you most often?
+   Phase: Curiosity Activation
+   A. Scientist or inventor (STEM)
+   B. Artist or storyteller (Arts & Creative Expression)
+   C. Shop owner or leader (Business, Economics & Entrepreneurship)
+   D. Doctor or helper (Health, Medicine & Life Sciences)
+
+7. When you see numbers, what do you think?
+   Phase: Curiosity Activation
+   A. Solving them like puzzles (STEM)
+   B. Using them in patterns or art (Arts & Creative Expression)
+   C. Using them to count money (Business, Economics & Entrepreneurship)
+   D. Using them to track health or habits (Health, Medicine & Life Sciences)
+
+8. When you hear a strange sound, what do you want to do?
+   Phase: Curiosity Activation
+   A. Find out what made it (STEM)
+   B. Imagine a story about it (Arts & Creative Expression)
+   C. Think if it could be useful for someone (Business, Economics & Entrepreneurship)
+   D. Check if it might be dangerous (Health, Medicine & Life Sciences)
+
+9. When exploring outside, what interests you most?
+   Phase: Curiosity Activation
+   A. Discovering plants or animals (STEM)
+   B. Making sketches or stories about it (Arts & Creative Expression)
+   C. Finding useful resources (Business, Economics & Entrepreneurship)
+   D. Staying safe while exploring (Health, Medicine & Life Sciences)
+
+10. When building with blocks, what matters most?
+    Phase: Curiosity Activation
+    A. Making it stable and strong (STEM)
+    B. Making it look nice (Arts & Creative Expression)
+    C. Making something others might like (Business, Economics & Entrepreneurship)
+    D. Making it safe to play with (Health, Medicine & Life Sciences)
+
+11. What keeps you playing a game for a long time?
+    Phase: Engagement Sustainment
+    A. Solving harder levels or puzzles (STEM)
+    B. Creating new characters or stories (Arts & Creative Expression)
+    C. Earning points or rewards (Business, Economics & Entrepreneurship)
+    D. Feeling active and comfortable (Health, Medicine & Life Sciences)
+
+12. During class activities, what helps you focus the most?
+    Phase: Engagement Sustainment
+    A. Finding answers and solving problems (STEM)
+    B. Using colors, acting, or drawing (Arts & Creative Expression)
+    C. Completing goals or tasks (Business, Economics & Entrepreneurship)
+    D. Taking breaks to feel good (Health, Medicine & Life Sciences)
+
+13. When learning a new skill, what makes you practice longer?
+    Phase: Engagement Sustainment
+    A. Understanding it better (STEM)
+    B. Making it look or sound nice (Arts & Creative Expression)
+    C. Thinking it could be useful later (Business, Economics & Entrepreneurship)
+    D. Feeling proud and healthy (Health, Medicine & Life Sciences)
+
+14. In group work, what role do you enjoy?
+    Phase: Engagement Sustainment
+    A. Solving problems for the group (STEM)
+    B. Sharing creative ideas (Arts & Creative Expression)
+    C. Organizing tasks (Business, Economics & Entrepreneurship)
+    D. Making sure everyone is okay (Health, Medicine & Life Sciences)
+
+15. What makes learning fun for you?
+    Phase: Engagement Sustainment
+    A. Finding correct answers (STEM)
+    B. Using imagination (Arts & Creative Expression)
+    C. Achieving goals or rewards (Business, Economics & Entrepreneurship)
+    D. Feeling healthy and relaxed (Health, Medicine & Life Sciences)
+
+16. What do you enjoy explaining to others?
+    Phase: Engagement Sustainment
+    A. How things work (STEM)
+    B. Stories or ideas you made (Arts & Creative Expression)
+    C. Plans or projects (Business, Economics & Entrepreneurship)
+    D. Healthy habits or safety rules (Health, Medicine & Life Sciences)
+
+17. If you could choose a school project, which one would you pick?
+    Phase: Personal Relevance Formation
+    A. Explaining how things work (STEM)
+    B. Creating something new (Arts & Creative Expression)
+    C. Planning or money projects (Business, Economics & Entrepreneurship)
+    D. Helping people or animals (Health, Medicine & Life Sciences)
+
+18. What kind of activity makes you feel proud?
+    Phase: Personal Relevance Formation
+    A. Solving a tricky problem (STEM)
+    B. Making something creative (Arts & Creative Expression)
+    C. Leading or planning (Business, Economics & Entrepreneurship)
+    D. Helping someone feel better (Health, Medicine & Life Sciences)
+
+19. What kind of work feels most like you?
+    Phase: Personal Relevance Formation
+    A. Building or experimenting (STEM)
+    B. Expressing ideas creatively (Arts & Creative Expression)
+    C. Organizing or managing tasks (Business, Economics & Entrepreneurship)
+    D. Supporting health and care (Health, Medicine & Life Sciences)
+
+20. If you had free time every day, what would you choose?
+    Phase: Personal Relevance Formation
+    A. Learning new experiments or facts (STEM)
+    B. Making art or music (Arts & Creative Expression)
+    C. Starting a small project (Business, Economics & Entrepreneurship)
+    D. Playing or exercising (Health, Medicine & Life Sciences)
+
+21. What do you keep practicing even when it is hard?
+    Phase: Passion-Driven Mastery
+    A. Math or logic skills (STEM)
+    B. Creative skills (Arts & Creative Expression)
+    C. Planning or leadership skills (Business, Economics & Entrepreneurship)
+    D. Physical or care skills (Health, Medicine & Life Sciences)
+
+22. What kind of books or videos do you choose on your own?
+    Phase: Passion-Driven Mastery
+    A. Science or technology (STEM)
+    B. Art or stories (Arts & Creative Expression)
+    C. Business or success stories (Business, Economics & Entrepreneurship)
+    D. Health or nature topics (Health, Medicine & Life Sciences)
+
+23. When you make mistakes, what helps you try again?
+    Phase: Passion-Driven Mastery
+    A. Wanting to solve it correctly (STEM)
+    B. Wanting to improve your creation (Arts & Creative Expression)
+    C. Wanting to succeed or lead (Business, Economics & Entrepreneurship)
+    D. Wanting to feel better and stronger (Health, Medicine & Life Sciences)
+
+24. What kind of club would you most enjoy?
+    Phase: Passion-Driven Mastery
+    A. Science or robotics (STEM)
+    B. Art or drama (Arts & Creative Expression)
+    C. Business or leadership (Business, Economics & Entrepreneurship)
+    D. Sports or wellness (Health, Medicine & Life Sciences)
+
+25. What do you like teaching others?
+    Phase: Passion-Driven Mastery
+    A. How things work (STEM)
+    B. How to create or perform (Arts & Creative Expression)
+    C. How to plan or organize (Business, Economics & Entrepreneurship)
+    D. How to stay safe and healthy (Health, Medicine & Life Sciences)
+
+26. What kind of challenge excites you?
+    Phase: Passion-Driven Mastery
+    A. Tricky problems (STEM)
+    B. Open-ended creative tasks (Arts & Creative Expression)
+    C. Leadership or selling challenges (Business, Economics & Entrepreneurship)
+    D. Physical or care challenges (Health, Medicine & Life Sciences)
+
+27. When you notice something new, what do you do first?
+    Phase: Curiosity Activation
+    A. Try to figure out how it works (STEM)
+    B. Imagine a story about it (Arts & Creative Expression)
+    C. Think if it is useful or valuable (Business, Economics & Entrepreneurship)
+    D. Make sure it is safe (Health, Medicine & Life Sciences)
+
+28. When exploring outside, what do you enjoy most?
+    Phase: Curiosity Activation
+    A. Discovering plants or animals (STEM)
+    B. Drawing or making a story (Arts & Creative Expression)
+    C. Finding things others might need (Business, Economics & Entrepreneurship)
+    D. Being careful and healthy (Health, Medicine & Life Sciences)
+
+29. What would you like to improve step by step?
+    Phase: Passion-Driven Mastery
+    A. Thinking and problem solving (STEM)
+    B. Creative skills (Arts & Creative Expression)
+    C. Leadership or planning (Business, Economics & Entrepreneurship)
+    D. Fitness or care skills (Health, Medicine & Life Sciences)
+
+30. What would you like to be known for as you grow?
+    Phase: Passion-Driven Mastery
+    A. Curiosity and problem-solving (STEM)
+    B. Creativity and expression (Arts & Creative Expression)
+    C. Leadership and ideas (Business, Economics & Entrepreneurship)
+    D. Care and well-being (Health, Medicine & Life Sciences)

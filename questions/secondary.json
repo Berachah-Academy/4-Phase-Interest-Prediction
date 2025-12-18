@@ -1,222 +1,1052 @@
 [
   {
-    "question_id": "S_Q1",
+    "question_id": "SEC_Q1",
     "interest_phase": "Curiosity Activation",
-    "question": "Which topic usually grabs your attention first?",
+    "question": "When you discover a new app or software, what do you want to do first?",
     "options": [
-      { "option_code": "Opt_1", "text": "How technology or science explains things", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Creative ideas, design, or storytelling", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "How businesses, money, or startups work", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "How the body, mind, or health works", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Explore how it works",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Customize its look or content",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Find ways it could help you earn or save money",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Check for privacy and safety issues",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q2",
+    "question_id": "SEC_Q2",
     "interest_phase": "Curiosity Activation",
-    "question": "What kind of videos or content do you watch most often?",
+    "question": "If you notice a problem in your school, what do you do?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science, tech, or problem-solving content", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Music, art, films, or creative content", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business tips, finance, or success stories", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health, fitness, or psychology content", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Analyze why it’s happening",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Suggest creative solutions",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Think how it could be improved efficiently",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensure it doesn’t affect student health or safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q3",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which type of school task do you stay focused on the longest?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Solving complex problems or experiments", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creative projects or presentations", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Planning, organizing, or managing tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Activities involving health or physical effort", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "S_Q4",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which activity do you willingly spend extra time on?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Learning new technical or logical skills", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Improving creative or expressive skills", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Developing leadership or planning skills", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Improving fitness or health habits", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "S_Q5",
-    "interest_phase": "Engagement Sustainment",
-    "question": "In group work, what role feels most natural to you?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Handling technical or logical challenges", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Coming up with creative ideas", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Organizing people and tasks", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Supporting team well-being", "domains": { "Health, Medicine & Life Sciences": 2 } }
-    ]
-  },
-  {
-    "question_id": "S_Q6",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which skill do you think will be most useful in your future?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Problem-solving and analytical thinking", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creative communication and expression", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Decision-making and leadership", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Understanding health and human behavior", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "S_Q7",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which subject feels most connected to your life goals?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Science, math, or technology", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Art, media, or creative fields", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Business, economics, or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Health, medicine, or psychology", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "S_Q8",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which learning feels meaningful beyond exams?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Learning how systems and technologies work", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Learning how to express ideas creatively", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Learning how to manage money or projects", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Learning how to stay mentally and physically healthy", "domains": { "Health, Medicine & Life Sciences": 2 } }
-    ]
-  },
-  {
-    "question_id": "S_Q9",
+    "question_id": "SEC_Q3",
     "interest_phase": "Curiosity Activation",
-    "question": "What kind of competition would you enjoy most?",
+    "question": "When learning a new scientific concept, what excites you most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science, math, or coding contests", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Art, music, or drama competitions", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business or idea-pitch competitions", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Sports or health-related competitions", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding how it works",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making diagrams or models",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Thinking how it could be applied in real life",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Seeing its effect on health or the environment",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q10",
+    "question_id": "SEC_Q4",
+    "interest_phase": "Curiosity Activation",
+    "question": "When reading a story or article, what draws you in?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Interesting facts or logic puzzles",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and character expression",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Ideas about earning, managing, or trading",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Lessons about health or well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q5",
+    "interest_phase": "Curiosity Activation",
+    "question": "When experimenting in class or at home, what motivates you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Testing how things work",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making it look interesting or artistic",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Measuring results for value or efficiency",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring it’s safe to try",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q6",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which task do you keep improving even after feedback?",
+    "question": "If you are given a group project, what role do you prefer?",
     "options": [
-      { "option_code": "Opt_1", "text": "Technical or analytical work", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creative or expressive work", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Planning and execution tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Fitness, health, or well-being tasks", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Solving technical problems",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Designing visuals or presentations",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Organizing and managing the team",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone follows health/safety rules",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q11",
+    "question_id": "SEC_Q7",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When studying, what keeps you focused the longest?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Working through difficult problems",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Adding creative elements or notes",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Tracking goals and achievements",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Maintaining comfort and energy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q8",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When practicing a skill, what drives you to continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Mastering the steps",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Perfecting style or appearance",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving measurable progress",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving stamina or wellness",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q9",
+    "interest_phase": "Engagement Sustainment",
+    "question": "During competitions or challenges, what motivates you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Finding the correct solution",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Standing out creatively",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Winning or outperforming",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Staying strong and healthy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q10",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What type of extracurricular activity do you enjoy most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Robotics, science, or coding",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Art, music, or drama",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Entrepreneurship or finance clubs",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sports or wellness programs",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q11",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When faced with a problem at school, what is your first thought?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Analyze it logically",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Brainstorm creative solutions",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Plan steps to solve it efficiently",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Make sure it doesn’t harm anyone",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q12",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of research or project excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Investigating scientific questions",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating art, stories, or media",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Developing a business or plan",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Working on health, nutrition, or safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q13",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity makes you feel most capable?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving complex problems",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Producing something unique",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading or managing tasks",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping others stay healthy or safe",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q14",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When imagining your future, what interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Inventing or discovering",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Expressing creativity",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Running a project or business",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Caring for people or the environment",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q15",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When working on a team, what role fits you best?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Analyzing data or problems",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating designs or concepts",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Planning and organizing",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring well-being and safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q16",
     "interest_phase": "Passion-Driven Mastery",
-    "question": "What do you work on even without external pressure?",
+    "question": "What kind of challenge excites you most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Learning advanced concepts or skills", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creating or performing creatively", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Building ideas, plans, or initiatives", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Improving health or understanding people", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Solving difficult technical problems",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Producing innovative art or media",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading a project or team",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving physical or mental wellness",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q12",
+    "question_id": "SEC_Q17",
     "interest_phase": "Passion-Driven Mastery",
-    "question": "Which area do you keep exploring on your own?",
+    "question": "When practicing a skill, what drives mastery?",
     "options": [
-      { "option_code": "Opt_1", "text": "Technology, science, or math", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Art, writing, or creative media", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Entrepreneurship or leadership", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Health, fitness, or psychology", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding it fully",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Perfecting it creatively",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving results or efficiency",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Maintaining health and consistency",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q13",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which activity helps you understand yourself better?",
+    "question_id": "SEC_Q18",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What motivates you to research a topic on your own?",
     "options": [
-      { "option_code": "Opt_1", "text": "Analyzing problems and outcomes", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Expressing thoughts creatively", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Setting goals and plans", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Reflecting on health and emotions", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Curiosity about how it works",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Exploring creative possibilities",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Finding practical or financial applications",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding effects on health or safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q14",
+    "question_id": "SEC_Q19",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which type of club or program would you join?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "STEM or coding club",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Art, media, or theater club",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Entrepreneurship or finance club",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, sports, or wellness club",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q20",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When leading a group project, what is your focus?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Ensuring the solution works correctly",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Ensuring creative quality",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving goals efficiently",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Keeping team safe and healthy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q21",
     "interest_phase": "Curiosity Activation",
-    "question": "What kind of workshop would you attend by choice?",
+    "question": "When you have free time, what do you prefer to do?",
     "options": [
-      { "option_code": "Opt_1", "text": "Technology or science workshops", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Creative or performance workshops", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Leadership or business workshops", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health or wellness workshops", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Learn something new",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Make something creative",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Explore ways to earn or manage resources",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Exercise or take care of health",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q15",
+    "question_id": "SEC_Q22",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which type of challenge keeps you motivated?",
+    "question": "When you solve a problem, what feels most satisfying?",
     "options": [
-      { "option_code": "Opt_1", "text": "Complex problems to solve", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creative challenges", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Strategic or leadership challenges", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Physical or mental health challenges", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding the solution",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making it look or feel unique",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Seeing it work efficiently",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Knowing it improves safety or health",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q16",
+    "question_id": "SEC_Q23",
     "interest_phase": "Personal Relevance Formation",
-    "question": "Which learning do you apply outside school?",
+    "question": "What type of skill do you practice the most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Logical or technical skills", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Creative or communication skills", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Planning or money-related skills", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health or lifestyle skills", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Logic, math, or science",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Drawing, music, or writing",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Planning, managing, or selling",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sports, first aid, or wellness",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q17",
+    "question_id": "SEC_Q24",
     "interest_phase": "Curiosity Activation",
-    "question": "Which topic do you often search about online?",
+    "question": "When creating a project, what do you focus on first?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science, tech, or problem-solving", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Art, design, or creative content", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business ideas or career paths", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health, fitness, or mental well-being", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding the mechanics",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Designing its appearance",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Planning its usefulness",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q18",
+    "question_id": "SEC_Q25",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When thinking about future careers, what excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Working with technology or science",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating or performing",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Running a business or project",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping people stay healthy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q26",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which habit are you most consistent with?",
+    "question": "When faced with a complex task, what motivates you?",
     "options": [
-      { "option_code": "Opt_1", "text": "Practicing problem-solving skills", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Practicing creative skills", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Organizing tasks or goals", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Maintaining fitness or health routines", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Solving it correctly",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making it visually or creatively appealing",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Completing it efficiently",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Staying safe and healthy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q19",
+    "question_id": "SEC_Q27",
     "interest_phase": "Passion-Driven Mastery",
-    "question": "Which area would you like to specialize in?",
+    "question": "What kind of achievement feels most meaningful?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science, technology, or engineering", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Arts, media, or creative fields", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Business or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Health, medicine, or psychology", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Mastering a technical skill",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating something exceptional",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading a successful project",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping people or improving well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   },
   {
-    "question_id": "S_Q20",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which activity would you continue even without grades or rewards?",
+    "question_id": "SEC_Q28",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you notice a new idea or trend, what do you do?",
     "options": [
-      { "option_code": "Opt_1", "text": "Learning and experimenting", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creating and expressing ideas", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Building ideas or leading projects", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Improving health and understanding people", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Learn how it works",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Explore creative possibilities",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Think about how it could be applied",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Check for health or safety implications",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q29",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When reviewing your progress, what matters most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding improvement in skills",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Seeing creative growth",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving planned outcomes",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Feeling healthier or safer",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q30",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When making choices independently, what guides you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Logic and reasoning",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and originality",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Effectiveness or success",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health and well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   }
 ]

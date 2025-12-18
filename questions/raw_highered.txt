@@ -1,0 +1,209 @@
+1. When you encounter a new technology or tool, what do you do first?
+   Phase: Curiosity Activation
+   A. Explore how it works (STEM)
+   B. Experiment with creative applications (Arts & Creative Expression)
+   C. Analyze its potential market or business use (Business, Economics & Entrepreneurship)
+   D. Assess its impact on health or safety (Health, Medicine & Life Sciences)
+
+2. If you notice an inefficiency in a system, what is your first reaction?
+   Phase: Curiosity Activation
+   A. Investigate why it occurs (STEM)
+   B. Consider innovative solutions (Arts & Creative Expression)
+   C. Think how to optimize or monetize it (Business, Economics & Entrepreneurship)
+   D. Ensure it doesn’t compromise safety or well-being (Health, Medicine & Life Sciences)
+
+3. When reading academic papers or reports, what engages you most?
+   Phase: Curiosity Activation
+   A. Understanding the methodology (STEM)
+   B. Examining creative approaches or presentation (Arts & Creative Expression)
+   C. Identifying practical or business applications (Business, Economics & Entrepreneurship)
+   D. Evaluating health or social implications (Health, Medicine & Life Sciences)
+
+4. When brainstorming project ideas, what excites you?
+   Phase: Curiosity Activation
+   A. Solving technical or analytical problems (STEM)
+   B. Designing innovative or artistic elements (Arts & Creative Expression)
+   C. Considering potential impact or scalability (Business, Economics & Entrepreneurship)
+   D. Ensuring benefits for health or safety (Health, Medicine & Life Sciences)
+
+5. When exploring a new subject, what motivates you to learn?
+   Phase: Curiosity Activation
+   A. Understanding the concepts deeply (STEM)
+   B. Applying creative thinking (Arts & Creative Expression)
+   C. Seeing potential real-world applications (Business, Economics & Entrepreneurship)
+   D. Learning its effect on health or well-being (Health, Medicine & Life Sciences)
+
+6. When starting a research project, what do you focus on first?
+   Phase: Engagement Sustainment
+   A. Understanding the problem and theory (STEM)
+   B. Planning the creative or presentation aspects (Arts & Creative Expression)
+   C. Setting objectives and outcomes (Business, Economics & Entrepreneurship)
+   D. Ensuring ethical and health considerations (Health, Medicine & Life Sciences)
+
+7. What keeps you consistently working on a challenging task?
+   Phase: Engagement Sustainment
+   A. Solving complex technical or analytical problems (STEM)
+   B. Refining creative output (Arts & Creative Expression)
+   C. Meeting goals and deadlines (Business, Economics & Entrepreneurship)
+   D. Maintaining personal well-being and safety (Health, Medicine & Life Sciences)
+
+8. In a team project, what role do you prefer?
+   Phase: Engagement Sustainment
+   A. Researching and analyzing data (STEM)
+   B. Designing creative solutions or visuals (Arts & Creative Expression)
+   C. Organizing, managing, and leading (Business, Economics & Entrepreneurship)
+   D. Ensuring health, safety, and wellness of the team (Health, Medicine & Life Sciences)
+
+9. When learning independently, what strategy helps you most?
+   Phase: Engagement Sustainment
+   A. Conducting experiments or simulations (STEM)
+   B. Using creative techniques to understand concepts (Arts & Creative Expression)
+   C. Tracking progress and evaluating outcomes (Business, Economics & Entrepreneurship)
+   D. Balancing work with self-care (Health, Medicine & Life Sciences)
+
+10. What type of project gives you the most satisfaction?
+    Phase: Engagement Sustainment
+    A. Producing accurate, logical solutions (STEM)
+    B. Creating something innovative or artistic (Arts & Creative Expression)
+    C. Achieving measurable impact or efficiency (Business, Economics & Entrepreneurship)
+    D. Improving health or safety outcomes (Health, Medicine & Life Sciences)
+
+11. Which research or project would you choose if you had full freedom?
+    Phase: Personal Relevance Formation
+    A. A technical or scientific investigation (STEM)
+    B. An artistic or creative innovation (Arts & Creative Expression)
+    C. A business or entrepreneurial initiative (Business, Economics & Entrepreneurship)
+    D. A project focused on health or life sciences (Health, Medicine & Life Sciences)
+
+12. What type of work aligns best with your personal strengths?
+    Phase: Personal Relevance Formation
+    A. Analytical and problem-solving (STEM)
+    B. Creativity and expression (Arts & Creative Expression)
+    C. Leadership and planning (Business, Economics & Entrepreneurship)
+    D. Care, health, and well-being (Health, Medicine & Life Sciences)
+
+13. When planning a career, what matters most?
+    Phase: Personal Relevance Formation
+    A. Developing technical or research skills (STEM)
+    B. Leveraging creative talents (Arts & Creative Expression)
+    C. Building leadership or entrepreneurial skills (Business, Economics & Entrepreneurship)
+    D. Contributing to health or social impact (Health, Medicine & Life Sciences)
+
+14. When reflecting on achievements, which gives you pride?
+    Phase: Personal Relevance Formation
+    A. Mastering a technical challenge (STEM)
+    B. Producing innovative creative work (Arts & Creative Expression)
+    C. Leading a successful initiative (Business, Economics & Entrepreneurship)
+    D. Improving health or quality of life (Health, Medicine & Life Sciences)
+
+15. If you were mentoring someone, what would you teach?
+    Phase: Personal Relevance Formation
+    A. How to analyze and solve problems (STEM)
+    B. How to create and express ideas (Arts & Creative Expression)
+    C. How to manage projects or resources (Business, Economics & Entrepreneurship)
+    D. How to maintain health and safety (Health, Medicine & Life Sciences)
+
+16. Which type of challenge excites you most?
+    Phase: Passion-Driven Mastery
+    A. Complex technical problems (STEM)
+    B. Open-ended creative or design challenges (Arts & Creative Expression)
+    C. Strategic or business-oriented challenges (Business, Economics & Entrepreneurship)
+    D. Health, wellness, or life-impact challenges (Health, Medicine & Life Sciences)
+
+17. When practicing a skill repeatedly, what drives you?
+    Phase: Passion-Driven Mastery
+    A. Mastering the technical details (STEM)
+    B. Perfecting creative expression (Arts & Creative Expression)
+    C. Achieving measurable success (Business, Economics & Entrepreneurship)
+    D. Enhancing health, performance, or well-being (Health, Medicine & Life Sciences)
+
+18. When approaching a new field, what excites you most?
+    Phase: Curiosity Activation
+    A. Learning how it works logically (STEM)
+    B. Exploring creative possibilities (Arts & Creative Expression)
+    C. Understanding applications or impact (Business, Economics & Entrepreneurship)
+    D. Evaluating health or life implications (Health, Medicine & Life Sciences)
+
+19. What motivates you to continue a long-term project?
+    Phase: Engagement Sustainment
+    A. Solving deeper problems (STEM)
+    B. Improving creative quality (Arts & Creative Expression)
+    C. Achieving planned outcomes (Business, Economics & Entrepreneurship)
+    D. Maintaining wellness and ethical standards (Health, Medicine & Life Sciences)
+
+20. Which kind of research do you prefer to conduct?
+    Phase: Personal Relevance Formation
+    A. Technical experiments or simulations (STEM)
+    B. Creative explorations or media projects (Arts & Creative Expression)
+    C. Business, strategy, or market studies (Business, Economics & Entrepreneurship)
+    D. Health, medical, or life science studies (Health, Medicine & Life Sciences)
+
+21. When given free choice, what do you study first?
+    Phase: Curiosity Activation
+    A. Scientific or technical concepts (STEM)
+    B. Creative or artistic subjects (Arts & Creative Expression)
+    C. Business, economics, or leadership topics (Business, Economics & Entrepreneurship)
+    D. Health, nutrition, or life sciences (Health, Medicine & Life Sciences)
+
+22. When working on a team, what drives your contribution?
+    Phase: Engagement Sustainment
+    A. Accurate problem-solving (STEM)
+    B. Creative input (Arts & Creative Expression)
+    C. Efficient coordination (Business, Economics & Entrepreneurship)
+    D. Supporting team well-being (Health, Medicine & Life Sciences)
+
+23. What kind of skill do you refine over time?
+    Phase: Passion-Driven Mastery
+    A. Analytical or technical skills (STEM)
+    B. Creative or artistic skills (Arts & Creative Expression)
+    C. Leadership or organizational skills (Business, Economics & Entrepreneurship)
+    D. Health, fitness, or caregiving skills (Health, Medicine & Life Sciences)
+
+24. When evaluating ideas, what do you prioritize?
+    Phase: Personal Relevance Formation
+    A. Logical correctness (STEM)
+    B. Creativity and originality (Arts & Creative Expression)
+    C. Practical or economic impact (Business, Economics & Entrepreneurship)
+    D. Ethical or health implications (Health, Medicine & Life Sciences)
+
+25. Which type of activity would you spend hours mastering?
+    Phase: Passion-Driven Mastery
+    A. Problem-solving and research (STEM)
+    B. Creative production (Arts & Creative Expression)
+    C. Business, planning, or management (Business, Economics & Entrepreneurship)
+    D. Wellness, medical, or care-related skills (Health, Medicine & Life Sciences)
+
+26. When considering future careers, what guides you most?
+    Phase: Personal Relevance Formation
+    A. Interest in technology or research (STEM)
+    B. Interest in arts, media, or design (Arts & Creative Expression)
+    C. Interest in leadership or entrepreneurship (Business, Economics & Entrepreneurship)
+    D. Interest in health, life sciences, or public welfare (Health, Medicine & Life Sciences)
+
+27. When solving a problem independently, what matters most?
+    Phase: Engagement Sustainment
+    A. Accuracy and correctness (STEM)
+    B. Creativity and innovation (Arts & Creative Expression)
+    C. Efficiency and impact (Business, Economics & Entrepreneurship)
+    D. Safety and well-being (Health, Medicine & Life Sciences)
+
+28. What motivates you to research or study voluntarily?
+    Phase: Curiosity Activation
+    A. Discovering new concepts (STEM)
+    B. Exploring creative ideas (Arts & Creative Expression)
+    C. Understanding real-world applications (Business, Economics & Entrepreneurship)
+    D. Learning about health or life improvement (Health, Medicine & Life Sciences)
+
+29. Which type of achievement feels most fulfilling?
+    Phase: Passion-Driven Mastery
+    A. Mastering complex technical knowledge (STEM)
+    B. Creating exceptional art or media (Arts & Creative Expression)
+    C. Leading successful initiatives (Business, Economics & Entrepreneurship)
+    D. Contributing to health or well-being (Health, Medicine & Life Sciences)
+
+30. When making independent choices, what guides your decision?
+    Phase: Passion-Driven Mastery
+    A. Logic and problem-solving (STEM)
+    B. Creativity and personal expression (Arts & Creative Expression)
+    C. Effectiveness and outcomes (Business, Economics & Entrepreneurship)
+    D. Ethics and health considerations (Health, Medicine & Life Sciences)

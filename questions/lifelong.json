@@ -1,222 +1,1052 @@
 [
   {
-    "question_id": "LL_Q1",
+    "question_id": "LIFE_Q1",
     "interest_phase": "Curiosity Activation",
-    "question": "Which new topic would you be most eager to explore when you first hear about it?",
+    "question": "When you learn about a new technology, what is your first step?",
     "options": [
-      { "option_code": "Opt_1", "text": "Discoveries in science or technology", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Artistic projects, music, or literature", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business trends or entrepreneurial ideas", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health, wellness, or lifestyle improvements", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Explore its features and functionality",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Imagine creative applications",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Assess its potential for business or personal growth",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Check for safety, health, or ethical concerns",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q2",
+    "question_id": "LIFE_Q2",
     "interest_phase": "Curiosity Activation",
-    "question": "When you see a new skill or hobby, what grabs your attention first?",
+    "question": "When you identify an inefficiency at work or home, what do you do?",
     "options": [
-      { "option_code": "Opt_1", "text": "The technical or scientific aspects", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "The creative or expressive potential", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Its usefulness or market value", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Its impact on health or wellbeing", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Analyze why it happens",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Brainstorm innovative solutions",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Plan improvements or cost-saving strategies",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensure safety and well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q3",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which activity would you continue practicing regularly over weeks or months?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Learning or experimenting with STEM topics", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creating art, music, or writing consistently", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Building skills in business or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Following health routines or scientific wellness practices", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q4",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which type of project would keep you motivated despite challenges?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Complex technical or scientific projects", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Detailed creative or artistic endeavors", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Business strategy or financial planning projects", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Health, fitness, or medical research activities", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q5",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which area feels most meaningful and aligns with your personal goals?",
-    "options": [
-      { "option_code": "Opt_1", "text": "STEM learning or innovation", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creative arts or self-expression", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Business ventures or entrepreneurial growth", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Improving personal or community health", "domains": { "Health, Medicine & Life Sciences": 4 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q6",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which pursuit would you integrate into your lifestyle because it reflects your values?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Scientific or technological exploration", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Artistic creation or cultural expression", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Entrepreneurial or economic impact", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Health, wellness, or life sciences contributions", "domains": { "Health, Medicine & Life Sciences": 4 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q7",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which area would you dedicate yourself to mastering for personal growth over years?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Becoming highly skilled in science or technology", "domains": { "STEM": 5 } },
-      { "option_code": "Opt_2", "text": "Achieving excellence in art, music, or creative work", "domains": { "Arts & Creative Expression": 5 } },
-      { "option_code": "Opt_3", "text": "Building expertise in business or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 5 } },
-      { "option_code": "Opt_4", "text": "Mastering health, wellness, or medical knowledge", "domains": { "Health, Medicine & Life Sciences": 5 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q8",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which pursuit would you commit years of effort to, even without external rewards?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Innovating in science, engineering, or technology", "domains": { "STEM": 5 } },
-      { "option_code": "Opt_2", "text": "Creating groundbreaking or highly skilled artistic work", "domains": { "Arts & Creative Expression": 5 } },
-      { "option_code": "Opt_3", "text": "Becoming a leader in business or entrepreneurial ventures", "domains": { "Business, Economics & Entrepreneurship": 5 } },
-      { "option_code": "Opt_4", "text": "Advancing health, medicine, or life sciences practices", "domains": { "Health, Medicine & Life Sciences": 5 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q9",
+    "question_id": "LIFE_Q3",
     "interest_phase": "Curiosity Activation",
-    "question": "When discovering a new book, course, or podcast, what draws your attention first?",
+    "question": "When exploring a new skill or hobby, what motivates you most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Scientific insights or technical knowledge", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Creative stories, music, or visual arts", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business, entrepreneurship, or economic strategies", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health, nutrition, or lifestyle advice", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding the mechanics or logic",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Exploring creative possibilities",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Considering its practical or financial benefits",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring health or safety while practicing",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q10",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which ongoing learning habit would you maintain consistently over months or years?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Conducting experiments or technical projects", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Practicing art, music, or creative skills", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Running business simulations or entrepreneurship exercises", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Tracking health routines or conducting wellness studies", "domains": { "Health, Medicine & Life Sciences": 3 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q11",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which type of learning or practice feels most aligned with your life purpose?",
-    "options": [
-      { "option_code": "Opt_1", "text": "STEM or technical exploration", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creative arts, performance, or design", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Entrepreneurship, business, or financial impact", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Health, wellness, or life sciences", "domains": { "Health, Medicine & Life Sciences": 4 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q12",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which lifelong learning goal would you pursue with full dedication and enthusiasm?",
-    "options": [
-      { "option_code": "Opt_1", "text": "Achieving mastery in science or technology fields", "domains": { "STEM": 5 } },
-      { "option_code": "Opt_2", "text": "Becoming a recognized expert in art, music, or creative work", "domains": { "Arts & Creative Expression": 5 } },
-      { "option_code": "Opt_3", "text": "Building significant expertise in business or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 5 } },
-      { "option_code": "Opt_4", "text": "Mastering health, wellness, or life sciences knowledge", "domains": { "Health, Medicine & Life Sciences": 5 } }
-    ]
-  },
-  {
-    "question_id": "LL_Q13",
+    "question_id": "LIFE_Q4",
     "interest_phase": "Curiosity Activation",
-    "question": "Which type of lecture, article, or workshop would you be most excited to attend first?",
+    "question": "When reading a book or article, what draws your interest?",
     "options": [
-      { "option_code": "Opt_1", "text": "Emerging technologies or scientific innovations", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Art exhibitions, creative writing, or performances", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Business strategies or entrepreneurial case studies", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Health, nutrition, or wellness seminars", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "New facts or analytical insights",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative storytelling or expression",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business, management, or entrepreneurship insights",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, wellness, or life improvement information",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q14",
+    "question_id": "LIFE_Q5",
     "interest_phase": "Curiosity Activation",
-    "question": "When exploring a new skill online, what catches your attention first?",
+    "question": "When attending a workshop or seminar, what engages you most?",
     "options": [
-      { "option_code": "Opt_1", "text": "The technical or scientific explanation behind it", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "The creative or expressive techniques involved", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "How it could be applied in business or markets", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Its benefits for health, fitness, or lifestyle", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Learning technical skills or knowledge",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Exploring creative or artistic techniques",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Gaining practical strategies or business insight",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding health, nutrition, or safety practices",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q15",
+    "question_id": "LIFE_Q6",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which ongoing learning activity would you keep practicing for weeks or months?",
+    "question": "What helps you maintain focus during a long learning task?",
     "options": [
-      { "option_code": "Opt_1", "text": "Exploring scientific experiments or STEM projects", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Developing artistic creations or music compositions", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Building and analyzing business strategies", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Practicing health, wellness, or nutrition routines", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Working through complex problems",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Experimenting creatively or visually",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Tracking goals and achieving milestones",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Maintaining wellness and balance",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q16",
+    "question_id": "LIFE_Q7",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which type of project motivates you to continue despite obstacles?",
+    "question": "When learning independently, what keeps you persistent?",
     "options": [
-      { "option_code": "Opt_1", "text": "Scientific research or technical experimentation", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Artistic work, creative design, or music", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Entrepreneurial planning or business development", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Health studies, fitness goals, or wellness projects", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding deeply",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Producing creative output",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving measurable outcomes",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Staying healthy and energized",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q17",
+    "question_id": "LIFE_Q8",
+    "interest_phase": "Engagement Sustainment",
+    "question": "During projects or collaborations, what role do you prefer?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Analytical or technical problem-solving",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Designing or creative input",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Organizing or leading",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring safety, health, and well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q9",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When reflecting on your learning, what matters most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Mastery of technical knowledge",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Growth in creativity or expression",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achievement of goals or efficiency",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improvement in health or quality of life",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q10",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which type of learning activity excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Research, experimentation, or coding",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Art, design, or writing projects",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Entrepreneurship, management, or planning",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Wellness, fitness, or caregiving activities",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q11",
     "interest_phase": "Personal Relevance Formation",
-    "question": "Which area of learning reflects your personal goals and values?",
+    "question": "What kind of project would you pursue if you had full autonomy?",
     "options": [
-      { "option_code": "Opt_1", "text": "STEM exploration or technological growth", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creative arts or self-expression", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Business development or entrepreneurial ventures", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Health improvement, medical knowledge, or wellness", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Scientific, technical, or analytical",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative, artistic, or media-focused",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business, leadership, or social enterprise",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, medical, or wellness initiatives",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q18",
+    "question_id": "LIFE_Q12",
     "interest_phase": "Personal Relevance Formation",
-    "question": "Which pursuit would you integrate into your daily life because it matters most to you?",
+    "question": "What type of work aligns best with your personal values?",
     "options": [
-      { "option_code": "Opt_1", "text": "Learning STEM skills or conducting experiments", "domains": { "STEM": 4 } },
-      { "option_code": "Opt_2", "text": "Creating or performing art consistently", "domains": { "Arts & Creative Expression": 4 } },
-      { "option_code": "Opt_3", "text": "Managing or strategizing in business ventures", "domains": { "Business, Economics & Entrepreneurship": 4 } },
-      { "option_code": "Opt_4", "text": "Maintaining health and wellness routines", "domains": { "Health, Medicine & Life Sciences": 4 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Analytical problem-solving or research",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and self-expression",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leadership, management, or entrepreneurial impact",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Promoting health, safety, or well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q19",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which lifelong learning pursuit would you dedicate yourself to mastering fully?",
+    "question_id": "LIFE_Q13",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When planning personal or professional goals, what guides you?",
     "options": [
-      { "option_code": "Opt_1", "text": "Becoming an expert in STEM or technology fields", "domains": { "STEM": 5 } },
-      { "option_code": "Opt_2", "text": "Achieving mastery in art, music, or creative work", "domains": { "Arts & Creative Expression": 5 } },
-      { "option_code": "Opt_3", "text": "Building exceptional expertise in business or entrepreneurship", "domains": { "Business, Economics & Entrepreneurship": 5 } },
-      { "option_code": "Opt_4", "text": "Mastering health, wellness, or medical knowledge", "domains": { "Health, Medicine & Life Sciences": 5 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Learning and mastering technical skills",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Expressing creativity and originality",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving results and efficiency",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving health, safety, or life quality",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
     ]
   },
   {
-    "question_id": "LL_Q20",
-    "interest_phase": "Passion-Driven Mastery",
-    "question": "Which area would you pursue for years with full dedication, even without external rewards?",
+    "question_id": "LIFE_Q14",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which achievement gives you the greatest satisfaction?",
     "options": [
-      { "option_code": "Opt_1", "text": "Innovating or researching in STEM fields", "domains": { "STEM": 5 } },
-      { "option_code": "Opt_2", "text": "Creating transformative works of art or performance", "domains": { "Arts & Creative Expression": 5 } },
-      { "option_code": "Opt_3", "text": "Becoming a top entrepreneur or business strategist", "domains": { "Business, Economics & Entrepreneurship": 5 } },
-      { "option_code": "Opt_4", "text": "Advancing health, wellness, or life sciences expertise", "domains": { "Health, Medicine & Life Sciences": 5 } }
+      {
+        "option_code": "Opt_1",
+        "text": "Solving complex challenges",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Producing innovative creative work",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Successfully managing projects or teams",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Contributing to well-being or safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q15",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What type of mentoring or teaching do you enjoy most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Explaining analytical or technical concepts",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Guiding creative or artistic processes",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Coaching on planning, leadership, or strategy",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Supporting health, wellness, or safety practices",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q16",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which challenges excite you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical or analytical challenges",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative or design-based challenges",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Strategic, business, or leadership challenges",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, wellness, or life-impact challenges",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q17",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When mastering a skill, what motivates you to improve?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding it in depth",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Perfecting creative expression",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving measurable success or efficiency",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Enhancing health, performance, or well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q18",
+    "interest_phase": "Curiosity Activation",
+    "question": "When exploring a new field, what excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Logical understanding and technical insight",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative exploration and innovation",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Practical applications or growth opportunities",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, safety, and ethical considerations",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q19",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What drives you to persist with long-term goals?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving complex problems",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Improving creative quality",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving outcomes or milestones",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Maintaining health, safety, and balance",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q20",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which type of research or project do you pursue most passionately?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Scientific, technical, or analytical",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative, artistic, or media-focused",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Entrepreneurial, business, or leadership initiatives",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, life sciences, or wellness",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q21",
+    "interest_phase": "Curiosity Activation",
+    "question": "When given free time, what do you spend it on?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Learning new knowledge or techniques",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating or designing",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Exploring opportunities or strategy",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving health, fitness, or well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q22",
+    "interest_phase": "Engagement Sustainment",
+    "question": "In teamwork, what guides your contribution?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Accuracy and problem-solving",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and innovation",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Efficiency and goal achievement",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Safety and well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q23",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which skills do you invest time in refining?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Analytical, research, or technical skills",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative or artistic skills",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leadership, management, or entrepreneurial skills",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, fitness, or caregiving skills",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q24",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When evaluating options, what matters most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Logic and correctness",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and innovation",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Practical or financial impact",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ethical or health outcomes",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q25",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which activity would you spend years mastering?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical problem-solving",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative production",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business, strategy, or management",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, wellness, or caregiving skills",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q26",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When considering future endeavors, what guides you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Interest in research or technology",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Interest in arts or design",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Interest in leadership or entrepreneurship",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Interest in health or public welfare",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q27",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When solving a problem independently, what is your focus?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Accuracy and logical reasoning",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and originality",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Efficiency and results",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Safety, wellness, or ethical considerations",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q28",
+    "interest_phase": "Curiosity Activation",
+    "question": "What motivates you to explore new knowledge voluntarily?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Discovering new concepts or systems",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Experimenting with creative ideas",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Evaluating practical applications",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding health, safety, or well-being impacts",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q29",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which achievement brings the most satisfaction?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Mastering a technical or analytical skill",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating exceptional work",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading successful initiatives",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Contributing to health, safety, or life quality",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q30",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When making independent decisions, what guides you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Logic and analysis",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and personal expression",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Effectiveness, efficiency, or impact",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ethics, wellness, or safety",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      }
     ]
   }
 ]

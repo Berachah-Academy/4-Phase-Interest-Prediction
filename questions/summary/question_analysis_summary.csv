@@ -1,0 +1,65 @@
+Age Group,Phase,Domain,Option Count
+primary,Curiosity Activation,Arts & Creative Expression,12
+primary,Curiosity Activation,"Business, Economics & Entrepreneurship",12
+primary,Curiosity Activation,"Health, Medicine & Life Sciences",12
+primary,Curiosity Activation,STEM,12
+primary,Engagement Sustainment,Arts & Creative Expression,6
+primary,Engagement Sustainment,"Business, Economics & Entrepreneurship",6
+primary,Engagement Sustainment,"Health, Medicine & Life Sciences",6
+primary,Engagement Sustainment,STEM,6
+primary,Personal Relevance Formation,Arts & Creative Expression,4
+primary,Personal Relevance Formation,"Business, Economics & Entrepreneurship",4
+primary,Personal Relevance Formation,"Health, Medicine & Life Sciences",4
+primary,Personal Relevance Formation,STEM,4
+primary,Passion-Driven Mastery,Arts & Creative Expression,8
+primary,Passion-Driven Mastery,"Business, Economics & Entrepreneurship",8
+primary,Passion-Driven Mastery,"Health, Medicine & Life Sciences",8
+primary,Passion-Driven Mastery,STEM,8
+secondary,Curiosity Activation,Arts & Creative Expression,8
+secondary,Curiosity Activation,"Business, Economics & Entrepreneurship",8
+secondary,Curiosity Activation,"Health, Medicine & Life Sciences",8
+secondary,Curiosity Activation,STEM,8
+secondary,Engagement Sustainment,Arts & Creative Expression,7
+secondary,Engagement Sustainment,"Business, Economics & Entrepreneurship",7
+secondary,Engagement Sustainment,"Health, Medicine & Life Sciences",7
+secondary,Engagement Sustainment,STEM,7
+secondary,Personal Relevance Formation,Arts & Creative Expression,8
+secondary,Personal Relevance Formation,"Business, Economics & Entrepreneurship",8
+secondary,Personal Relevance Formation,"Health, Medicine & Life Sciences",8
+secondary,Personal Relevance Formation,STEM,8
+secondary,Passion-Driven Mastery,Arts & Creative Expression,7
+secondary,Passion-Driven Mastery,"Business, Economics & Entrepreneurship",7
+secondary,Passion-Driven Mastery,"Health, Medicine & Life Sciences",7
+secondary,Passion-Driven Mastery,STEM,7
+highered,Curiosity Activation,Arts & Creative Expression,8
+highered,Curiosity Activation,"Business, Economics & Entrepreneurship",8
+highered,Curiosity Activation,"Health, Medicine & Life Sciences",8
+highered,Curiosity Activation,STEM,8
+highered,Engagement Sustainment,Arts & Creative Expression,8
+highered,Engagement Sustainment,"Business, Economics & Entrepreneurship",8
+highered,Engagement Sustainment,"Health, Medicine & Life Sciences",8
+highered,Engagement Sustainment,STEM,8
+highered,Personal Relevance Formation,Arts & Creative Expression,8
+highered,Personal Relevance Formation,"Business, Economics & Entrepreneurship",8
+highered,Personal Relevance Formation,"Health, Medicine & Life Sciences",8
+highered,Personal Relevance Formation,STEM,8
+highered,Passion-Driven Mastery,Arts & Creative Expression,6
+highered,Passion-Driven Mastery,"Business, Economics & Entrepreneurship",6
+highered,Passion-Driven Mastery,"Health, Medicine & Life Sciences",6
+highered,Passion-Driven Mastery,STEM,6
+lifelong,Curiosity Activation,Arts & Creative Expression,8
+lifelong,Curiosity Activation,"Business, Economics & Entrepreneurship",8
+lifelong,Curiosity Activation,"Health, Medicine & Life Sciences",8
+lifelong,Curiosity Activation,STEM,8
+lifelong,Engagement Sustainment,Arts & Creative Expression,8
+lifelong,Engagement Sustainment,"Business, Economics & Entrepreneurship",8
+lifelong,Engagement Sustainment,"Health, Medicine & Life Sciences",8
+lifelong,Engagement Sustainment,STEM,8
+lifelong,Personal Relevance Formation,Arts & Creative Expression,8
+lifelong,Personal Relevance Formation,"Business, Economics & Entrepreneurship",8
+lifelong,Personal Relevance Formation,"Health, Medicine & Life Sciences",8
+lifelong,Personal Relevance Formation,STEM,8
+lifelong,Passion-Driven Mastery,Arts & Creative Expression,6
+lifelong,Passion-Driven Mastery,"Business, Economics & Entrepreneurship",6
+lifelong,Passion-Driven Mastery,"Health, Medicine & Life Sciences",6
+lifelong,Passion-Driven Mastery,STEM,6
