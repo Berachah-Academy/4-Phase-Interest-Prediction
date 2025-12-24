@@ -9,7 +9,7 @@ folder_path = "questions"
 
 age_group_data = {}
 
-for age_group in ["primary", "secondary", "highered"]:
+for age_group in ["primary", "secondary", "highered", "lifelong"]:
     with open(folder_path+"/"+age_group+".json", "r", encoding="utf-8") as f:
             age_group_data[age_group] = json.load(f)
 
@@ -21,15 +21,12 @@ for age_group, questions in age_group_data.items():
     phase_counter = Counter()
     domain_counter = Counter()
     phase_domain_counts = defaultdict(lambda: Counter())
-    multi_domain_options = 0
     
     for q in questions:
         phase = q["interest_phase"]
         phase_counter[phase] += 1
         for opt in q["options"]:
             non_neutral_domains = [d for d in opt["domains"] if d != "Neutral"]
-            if len(non_neutral_domains) > 1:
-                multi_domain_options += 1
             for domain in non_neutral_domains:
                 domain_counter[domain] += 1
                 phase_domain_counts[phase][domain] += 1
@@ -38,11 +35,6 @@ for age_group, questions in age_group_data.items():
     for phase, count in phase_counter.items():
         print(f"  {phase}: {count}")
     
-    print("Domain distribution (excluding Neutral):")
-    for domain, count in domain_counter.items():
-        print(f"  {domain}: {count}")
-    
-    print(f"Number of overlapping multi-domain options: {multi_domain_options}")
     
     total_domains = len(domain_counter)
     warnings = []
