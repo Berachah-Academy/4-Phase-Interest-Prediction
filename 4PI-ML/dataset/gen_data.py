@@ -1,67 +1,89 @@
 import numpy as np
 import pandas as pd
+import os
+import random
 
 # =========================
 # CONFIGURATION
 # =========================
-NUM_USERS = 1000
-NUM_QUESTIONS = 15
-NUM_DOMAINS = 4
-NUM_PHASES = 4
+domains = [
+    "Engineering, Technology & Computer Science",
+    "Business, Commerce & Management",
+    "Science & Research",
+    "Arts, Humanities & Creative Studies",
+    "Healthcare & Life Sciences",
+    "Law, Education & Public Service"
+]
 
-domains = ["STEM", "Business, Economics & Entrepreneurship", "Arts & Creative Expression", "Health, Medicine & Life Sciences"]
-phases = ["Curiosity Activation", "Engagement Sustainment",
-          "Personal Relevance Formation", "Passion-Driven Mastery"]
+phases = [
+    "Curiosity Activation",
+    "Engagement Sustainment",
+    "Personal Relevance Formation",
+    "Passion-Driven Mastery"
+]
 
-phase_weights = {
-    "Curiosity Activation": 1,
-    "Engagement Sustainment": 2,
-    "Personal Relevance Formation": 3,
-    "Passion-Driven Mastery": 4
-}
+phase_weights = [1, 2, 3, 4]
 
-# =========================
-# FUNCTIONS
-# =========================
-def generate_user_answer():
-    answers = []
-    for _ in range(NUM_QUESTIONS):
-        domain_choice = np.random.randint(0, NUM_DOMAINS)
-        phase_choice = np.random.randint(0, NUM_PHASES)
-        answers.append((domain_choice, phase_choice))
-    return answers
+NUM_DOMAINS = len(domains)
+NUM_PHASES = len(phases)
+NUM_SAMPLES = 3000   # recommended minimum
 
-def answers_to_features(answers):
-    feature_vector = np.zeros(NUM_DOMAINS * NUM_PHASES)
-    for domain_choice, phase_choice in answers:
-        feature_vector[phase_choice * NUM_DOMAINS + domain_choice] += phase_weights[phases[phase_choice]]
-    return feature_vector
-
-def generate_target_domains(answers):
-    domain_scores = np.zeros(NUM_DOMAINS)
-    for domain_choice, phase_choice in answers:
-        domain_scores[domain_choice] += phase_weights[phases[phase_choice]]
-    top_indices = domain_scores.argsort()[-2:]  # pick top 2 domains
-    target = np.zeros(NUM_DOMAINS)
-    target[top_indices] = 1
-    return target
+output_path = "4PI-ML/dataset"
+os.makedirs(output_path, exist_ok=True)
 
 # =========================
-# GENERATE DATASET
+# DATA GENERATION LOGIC
 # =========================
-X_list, y_list = [], []
-for _ in range(NUM_USERS):
-    ans = generate_user_answer()
-    X_list.append(answers_to_features(ans))
-    y_list.append(generate_target_domains(ans))
+X = []
+y = []
 
-X_array = np.array(X_list)
-y_array = np.array(y_list)
+for _ in range(NUM_SAMPLES):
 
-# Combine features and targets into a single CSV
-df_features = pd.DataFrame(X_array, columns=[f"F{i+1}" for i in range(NUM_DOMAINS*NUM_PHASES)])
-df_targets = pd.DataFrame(y_array, columns=domains)
-df = pd.concat([df_features, df_targets], axis=1)
-df.to_csv("4PI-ML/dataset/data.csv", index=False)
+    # Feature vector (24)
+    features = np.zeros(NUM_DOMAINS * NUM_PHASES)
 
-print("Synthetic dataset generated")
+    # Choose 1–2 dominant domains
+    dominant_domains = random.sample(range(NUM_DOMAINS), random.randint(1, 2))
+
+    for domain in range(NUM_DOMAINS):
+        for phase in range(NUM_PHASES):
+            idx = phase * NUM_DOMAINS + domain
+
+            if domain in dominant_domains:
+                # Higher engagement in later phases
+                value = random.randint(0, phase_weights[phase] + 1)
+            else:
+                value = random.randint(0, 1)
+
+            features[idx] = value
+
+    # Labels (6)
+    labels = np.zeros(NUM_DOMAINS)
+    for d in dominant_domains:
+        labels[d] = 1
+
+    X.append(features)
+    y.append(labels)
+
+# =========================
+# BUILD DATAFRAME
+# =========================
+feature_columns = [
+    f"{domain} | {phase}"
+    for phase in phases
+    for domain in domains
+]
+
+label_columns = domains
+
+df = pd.DataFrame(np.hstack([X, y]), columns=feature_columns + label_columns)
+
+# =========================
+# SAVE CSV
+# =========================
+df.to_csv(os.path.join(output_path, "data.csv"), index=False)
+
+print("Dataset generated successfully!")
+print("Samples:", df.shape[0])
+print("Features:", len(feature_columns))
+print("Labels:", len(label_columns))
